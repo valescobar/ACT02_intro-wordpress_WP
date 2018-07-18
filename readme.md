@@ -37,7 +37,7 @@ Aquí te damos un ejemplo de cómo podría quedar la landing:
 
 - Personalizar el sitio con imágenes y colores diferentes a la que entrega el tema por defecto.
 
-- La carpeta `wp-content` y base de datos con extensión`.sql` deben estar subidas a Github.
+- La carpeta `wp-content` y [base de datos con extensión`.sql`](https://cl.godaddy.com/help/exportar-mis-bases-de-datos-mysql-1487) deben estar subidas a Github.
 
 ### RECURSOS
 
