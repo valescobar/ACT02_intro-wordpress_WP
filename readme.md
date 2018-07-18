@@ -1,4 +1,4 @@
-# Desafío 016 - Wordpress
+# Editando un tema de Wordpress
 
 ### INSTRUCCIONES:- Para poder realizar este actividad debes haber realizado los cursos previos junto con los videos online correspondientes a la experiencia 15 y 16.
 - Realiza tu trabajo y súbelos a tu repositorio de Github. En este caso es necesario que subas la carpeta `wp-content` y base de datos con extensión`.sql`.
@@ -10,7 +10,7 @@ Un connotado coach digital te pide que le hagas su landing page promocional de s
 Para la realización de este trabajo necesitas realizar la configuración inicial del tema Illdy.
 
 ![](images/illdy-base.png)
- 
+
 Tu tarea es editar el contenido para que quede acorde a lo que ofrece tu cliente como servicio. Además, debes configurar el menú de forma que éste haga scroll a las diferentes secciones del landing page. Además se te pide agregar por lo menos 3 entradas, configurar un formulario que se vea dentro de la sección #contact-us y que los botones del jumbotron linkeen a la página blog y a la sección de contacto. Debes personalizar el tema para darle un diseño diferente al que tiene por defecto en la front-page y en el blog-page a través de la personalización de Wordpress.
 
 Todo esto lo puedes lograr siguiendo las instrucciones de la [documentación de Illdy](https://colorlib.com/wp/support/illdy/).
